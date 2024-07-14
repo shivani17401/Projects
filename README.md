@@ -14,14 +14,18 @@ The Store Management System offers a comprehensive solution for managing various
 #Features
 
  *Inventory Management: Track and manage stock levels, product details, and categories with ease.
+ 
  *Sales Management: Process sales transactions and view sales reports.
+ 
  *User Management: Admin features for managing user roles and permissions.
+ 
  *Reporting: Generate reports on sales and inventory for informed decision-making.
 
  
 #Technologies Used
 
  *Frontend: Built with Angular for a dynamic and responsive user interface.
+
  *Other Technologies: Includes HTML and CSS for styling and layout.
 
 
@@ -30,7 +34,9 @@ The Store Management System offers a comprehensive solution for managing various
 To get started with the Store Management System:
 
 *Clone the Repository: git clone https://github.com/Shivani17401/store-management-system.git
+
 *Install Dependencies: Navigate to the project directory and install the required dependencies.
+
 *Run the Application: Follow the setup instructions in the README file within the project directory to run the application locally.
 
 
