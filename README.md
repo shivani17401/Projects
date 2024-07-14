@@ -2,6 +2,7 @@
 This repository features my Store Management System project, a web application designed for efficient inventory and sales management. Explore the code and implementation details to see how it showcases my skills in web development.
 
 #Store Management System
+
 Welcome to the Store Management System project repository! This web application is designed to streamline the management of store inventory and sales, providing an intuitive and efficient interface for users.
 
 #Project Overview
